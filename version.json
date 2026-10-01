@@ -1,4 +1,6 @@
 {
-  "version": "1.3.0",
-  "url_descarga": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases"
+  "version": "1.4.5",
+  "sha256": "cf4c12d3183f8feee997caff2d2d56dbebfe85db000f13adc9905d1808a9a4df",
+  "url_exe": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/download/v1.4.5/TortilleriaPOS.exe",
+  "url_descarga": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/tag/v1.4.5"
 }
