@@ -1,6 +1,16 @@
 {
-  "version": "1.4.5",
-  "sha256": "cf4c12d3183f8feee997caff2d2d56dbebfe85db000f13adc9905d1808a9a4df",
-  "url_exe": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/download/v1.4.5/TortilleriaPOS.exe",
-  "url_descarga": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/tag/v1.4.5"
+  "version": "1.5.0",
+  "sha256": "24f5041b7cf4db6b6def2fdd7f1d174de9d662f606dd55a8a97974dec2d5e619",
+  "url_exe": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/download/v1.5.0/TortilleriaPOS.exe",
+  "url_descarga": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/tag/v1.5.0",
+  "artifacts": {
+    "win32": {
+      "url": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/download/v1.5.0/TortilleriaPOS.exe",
+      "sha256": "24f5041b7cf4db6b6def2fdd7f1d174de9d662f606dd55a8a97974dec2d5e619"
+    },
+    "linux": {
+      "url": "https://github.com/revistamundodelarte-alt/TortilleriaPOS-updates/releases/download/v1.5.0/TortilleriaPOS",
+      "sha256": "1722192aa1a3b0a3790464e28a1e640f9121f5872a95c2b7f95a0fb22b8e9605"
+    }
+  }
 }
